@@ -1,0 +1,8 @@
+NAME=newt
+VERSION=0.52.20
+REVISION=1
+LICENSE=LGPL-2.0-only
+SRC=https://releases.pagure.org/newt/newt-0.52.20.tar.gz
+SRCMD5=70b288f821234593a8e7920e435b259b
+BUILDDEPS=libpopt slang
+INSTALLDEPS=libpopt slang
